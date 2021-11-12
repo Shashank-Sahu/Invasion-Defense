@@ -11,7 +11,7 @@ Invaders are attacking you home, Defeat the MotherShip before it reaches your ba
 
 ## Unity
 
-The game was made using Unity Engine. This game idea came from the course that I took and added my own twist&turns, assets, Particles, Main Menu Music, etc.
+The game was made using Unity Engine. This game idea came from the course that I took and added my own twist&turns, assets, Particles, Main Menu Music.
 
 Asset Packs Used:-
 
